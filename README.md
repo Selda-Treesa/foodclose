@@ -12,7 +12,7 @@ FoodClose connects users with nearby surplus food deals from vendors. Instead of
 
 ## 🚀 Live App
 
-👉 [https://foodclose.vercel.app](https://foodclose-web.vercel.app/)
+👉 [https://foodclose.vercel.app](https://foodclose-rd5liy8g1-selda-treesas-projects.vercel.app/)
 
 ---
 
@@ -38,21 +38,12 @@ FoodClose is a small step toward that.
 
 ## 🛠 Tech Stack
 
-* ⚛️ React (Vite)
-* 🧩 JavaScript (ES6+)
-* 🎨 CSS
-* 💾 LocalStorage API
+* React (Vite)
+* JavaScript (ES6+)
+* CSS
+* Database: MongoDB (Atlas)
+* Deployment: Vercel
 
----
-
-## ⚙️ Run Locally
-
-```bash
-git clone https://github.com/Selda-Treesa/foodclose.git
-cd foodclose
-npm install
-npm run dev
-```
 
 ---
 
@@ -64,19 +55,10 @@ npm run build
 
 ---
 
-## ⚠️ Limitations
-
-* Data is stored locally (not shared across devices)
-* No backend/database yet
-
----
-
 ## 🔮 Future Plans
-
-* 🔐 User login system
-* ☁️ Database integration
-* 📍 Location-based results
-* 📱 Mobile-friendly improvements
+* Notifications
+* Location-based results
+* Mobile-friendly improvements
 
 ---
 
